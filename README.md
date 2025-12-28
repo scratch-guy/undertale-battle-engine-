@@ -12,4 +12,6 @@ press h to heal with TP!
 this is vx/40
 assets by toby fox.
 tutorial by @PaleThorn on scratch
-use with credit.
+use engine with credit.
+
+link: https://scratch-guy.github.io/undertale-battle-engine-/
